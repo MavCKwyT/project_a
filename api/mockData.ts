@@ -1,4 +1,4 @@
-const mockData = [
+export const mockData = [
   {
     price: 45480,
     carrier: "LH",
